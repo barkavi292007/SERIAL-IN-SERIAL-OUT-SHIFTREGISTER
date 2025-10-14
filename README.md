@@ -40,3 +40,7 @@ Developed by: RegisterNumber:
 **TIMING DIGRAMS FOR SISO Shift Register**
 
 **RESULTS**
+logic diagram:
+![serial in serial out logic diagram](https://github.com/user-attachments/assets/d9b8e0d0-960a-4fe3-bcfc-7e72ec768c1b)
+state diagram:
+![serial in serial out state diagram](https://github.com/user-attachments/assets/99078f0d-957e-4e5e-a58d-b052781e1be9)
